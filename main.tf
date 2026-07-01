@@ -26,7 +26,7 @@ resource "openstack_compute_instance_v2" "centos_vm" {
   user_data = <<-EOF
               #!/bin/bash
               # Set the password for the centos user
-              echo "centos:OpenStack123!" | chpasswd
+              echo "centos:ur password" | chpasswd
 
               # Force the SSH server to allow password logins
               sed -i 's/PasswordAuthentication no/PasswordAuthentication yes/g' /etc/ssh/sshd_config
