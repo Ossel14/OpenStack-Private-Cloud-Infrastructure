@@ -397,11 +397,7 @@ python3 ~/dashboard.py
 
 ## 👨‍💻 Author
 
-**Ossama Elmessaoudi**  
-Faculty of Sciences and Techniques of Tangier (FSTT)  
-Université Abdelmalek Essaâdi  
-Module: Virtualization Technologies Applied to Cloud and Edge Computing  
-Professor: Prof. C. El Amrani  
+**Ossama Elmessaoudi**   
 Academic Year: 2025-2026
 
 ---
